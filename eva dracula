@@ -36,7 +36,7 @@
     "#1f1e1e"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
-    "#1a58a3"
+    "#7A6CA3"
     ],
     "BACKGROUND_PRIMARY": [
     "#1f1e1e"
@@ -107,7 +107,7 @@
   },
   "rawColors": {
     "BRAND_260": "#c4a7e7",
-    "BRAND_360": "#1a58a3",
+    "BRAND_360": "#7A6CA3",
     "BRAND_500": "#524f67",
     "GREEN_100": "#9ccfd8",
     "GREEN_130": "#9ccfd8",
@@ -139,7 +139,7 @@
     "GUILD_BOOSTING_PURPLE": "#c4a7e7",
     "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#c4a7e7",
     "PRIMARY_100": "#e0def4",
-    "PRIMARY_300": "#1a58a3",
+    "PRIMARY_300": "#7A6CA3",
     "PRIMARY_360": "#ebbcba",    
     "PRIMARY_400": "#ebbcba",
     "PRIMARY_460": "#1f1e1e",
