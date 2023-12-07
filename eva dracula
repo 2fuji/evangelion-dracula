@@ -12,13 +12,13 @@
     "#7A6CA3"
     ],
     "BACKGROUND_FLOATING": [
-    "#12121278"
+    "#11022678"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
     "#403d52"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-    "#121212"
+    "#110226"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
     "#2a282c"
@@ -30,10 +30,10 @@
     "#2a282c"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
-    "#121212"
+    "#110226"
     ],
     "BACKGROUND_MODIFIER_HOVER": [
-    "#121212"
+    "#110226"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
     "#7A6CA3"
