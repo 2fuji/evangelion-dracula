@@ -39,16 +39,16 @@
     "#7A6CA3"
     ],
     "BACKGROUND_PRIMARY": [
-    "#1f1e1e"
+    "#32293D"
     ],
     "BACKGROUND_SECONDARY": [
-    "#2a282c"
+    "#8062a6"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-    "#2a282c"
+    "#8062a6"
     ],
     "BACKGROUND_TERTIARY": [
-    "#1f1e1e"
+    "#32293D"
     ],
     "CHANNEL_ICON": [
     "#908caa"
@@ -57,7 +57,7 @@
     "#908caa"
     ],
     "CHAT_BACKGROUND": [
-    "#1e1e1e"
+    "#32293D"
     ],
     "HEADER_PRIMARY": [
     "#e0def4"
