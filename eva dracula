@@ -12,7 +12,7 @@
     "#7A6CA3"
     ],
     "BACKGROUND_FLOATING": [
-    "#8062a6"
+    "#8062a678"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
     "#403d52"
@@ -48,7 +48,7 @@
     "#8062a6"
     ],
     "BACKGROUND_TERTIARY": [
-    "#32293D"
+    "#2b2336"
     ],
     "CHANNEL_ICON": [
     "#908caa"
